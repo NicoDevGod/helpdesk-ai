@@ -12,7 +12,7 @@ Estado: **Fase 0, cimientos** (en curso).
 | `web/` | Interfaz |
 | `docs/` | Alcance y decisiones (`docs/adr/`) |
 
-Empieza por [`docs/scope.md`](docs/scope.md).
+Empieza por [`docs/scope.md`](docs/scope.md). Decisiones: [ADR-001, stack y hosting](docs/adr/ADR-001-stack-y-hosting.md).
 
 ## Desarrollo
 
